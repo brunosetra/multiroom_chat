@@ -1,0 +1,26 @@
+{
+  "name": "multiroom_chat",
+  "version": "1.0.0",
+  "description": "Multiroom Chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunosetra/multiroom_chat.git"
+  },
+  "author": "Bruno Setra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunosetra/multiroom_chat/issues"
+  },
+  "homepage": "https://github.com/brunosetra/multiroom_chat#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.6",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-validator": "^5.2.0"
+  }
+}
